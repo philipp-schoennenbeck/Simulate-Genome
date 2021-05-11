@@ -1,2 +1,2 @@
 # Simulate-Genome
-Small Python skript to simulate genomes
+Small Python script to simulate genomes
